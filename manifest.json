@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ranjd12.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ranjd12.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "entertainment",
+    "games"
+  ]
+}
