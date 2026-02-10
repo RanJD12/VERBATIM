@@ -3,6 +3,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "VERBATIM",
+  "description": "VERBATIM is a short first person puzzle game with horror elements.",
   "orientation": "portrait",
   "scope": "/",
   "short_name": "VERBATIM",
