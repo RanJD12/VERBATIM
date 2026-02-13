@@ -498,11 +498,12 @@
     <script src="https://storage.googleapis.com/rosebud_staticfiles/ProgressLogger.js"></script>
     <script src="https://storage.googleapis.com/rosebud_staticfiles/OGP.js"></script>
     <script>
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('/sw.js');
-    });
-  }
-</script>
+  <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js');
+        });
+      }
+    </script>
   </body>
 </html>
